@@ -24,7 +24,7 @@ function search(chunks: any[], question: string, topK = 15) {
 export async function POST(req: NextRequest) {
   const { question, contacts } = await req.json();
 
-  const chunksPath = path.join(process.cwd(), '..', 'village-parser', 'chunks.json');
+  const chunksPath = path.join(process.cwd(), 'public', 'chunks.json');
   const chunks = JSON.parse(fs.readFileSync(chunksPath, 'utf-8'));
 
   const profilesPath = path.join(process.cwd(), 'public', 'profiles.json');
