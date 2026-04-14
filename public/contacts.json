@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Julia MediaForest",
+    "messages": 4103,
+    "activeDays": 599,
+    "firstMessage": "08/03/2024",
+    "lastMessage": "10/04/2026",
+    "score": 100,
+    "favoriteHour": 10,
+    "topInteractions": [
+      {
+        "name": "Anouk Suisse",
+        "count": 484
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 427
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 298
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 284
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 245
+      }
+    ]
+  },
+  {
+    "name": "Eric Jaoui",
+    "messages": 3080,
+    "activeDays": 540,
+    "firstMessage": "08/03/2024",
+    "lastMessage": "11/04/2026",
+    "score": 81,
+    "favoriteHour": 10,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 371
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 227
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 222
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 185
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 165
+      }
+    ]
+  },
+  {
+    "name": "Anouk Suisse",
+    "messages": 2905,
+    "activeDays": 524,
+    "firstMessage": "08/03/2024",
+    "lastMessage": "11/04/2026",
+    "score": 77,
+    "favoriteHour": 21,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 392
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 242
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 167
+      },
+      {
+        "name": "Marie lev Wonder Nini",
+        "count": 158
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 146
+      }
+    ]
+  },
+  {
+    "name": "Chantou Jaoui",
+    "messages": 2567,
+    "activeDays": 557,
+    "firstMessage": "07/03/2024",
+    "lastMessage": "09/04/2026",
+    "score": 75,
+    "favoriteHour": 22,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 304
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 278
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 209
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 159
+      },
+      {
+        "name": "Chloe Saada",
+        "count": 130
+      }
+    ]
+  },
+  {
+    "name": "Jen Cohen",
+    "messages": 2330,
+    "activeDays": 478,
+    "firstMessage": "08/03/2024",
+    "lastMessage": "11/04/2026",
+    "score": 66,
+    "favoriteHour": 20,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 306
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 200
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 176
+      },
+      {
+        "name": "Mon Amour",
+        "count": 143
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 109
+      }
+    ]
+  },
+  {
+    "name": "Mickael Miro",
+    "messages": 2090,
+    "activeDays": 405,
+    "firstMessage": "08/03/2024",
+    "lastMessage": "10/04/2026",
+    "score": 58,
+    "favoriteHour": 10,
+    "topInteractions": [
+      {
+        "name": "Eric Jaoui",
+        "count": 222
+      },
+      {
+        "name": "Julia MediaForest",
+        "count": 213
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 106
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 99
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 92
+      }
+    ]
+  },
+  {
+    "name": "Mon Amour",
+    "messages": 1663,
+    "activeDays": 445,
+    "firstMessage": "09/03/2024",
+    "lastMessage": "12/04/2026",
+    "score": 54,
+    "favoriteHour": 10,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 178
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 136
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 133
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 133
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 111
+      }
+    ]
+  },
+  {
+    "name": "Anthony Jaoui",
+    "messages": 1791,
+    "activeDays": 350,
+    "firstMessage": "11/03/2024",
+    "lastMessage": "11/04/2026",
+    "score": 49,
+    "favoriteHour": 11,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 203
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 138
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 109
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 75
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 65
+      }
+    ]
+  },
+  {
+    "name": "Marie lev Wonder Nini",
+    "messages": 1299,
+    "activeDays": 336,
+    "firstMessage": "10/03/2024",
+    "lastMessage": "11/04/2026",
+    "score": 41,
+    "favoriteHour": 10,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 162
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 142
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 95
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 90
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 85
+      }
+    ]
+  },
+  {
+    "name": "Chloe Saada",
+    "messages": 953,
+    "activeDays": 354,
+    "firstMessage": "10/03/2024",
+    "lastMessage": "06/04/2026",
+    "score": 38,
+    "favoriteHour": 10,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 117
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 93
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 73
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 73
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 71
+      }
+    ]
+  },
+  {
+    "name": "Michael Taieb",
+    "messages": 885,
+    "activeDays": 273,
+    "firstMessage": "09/03/2024",
+    "lastMessage": "08/04/2026",
+    "score": 31,
+    "favoriteHour": 22,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 120
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 113
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 83
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 78
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 50
+      }
+    ]
+  },
+  {
+    "name": "Jaoui Armand",
+    "messages": 572,
+    "activeDays": 287,
+    "firstMessage": "09/03/2024",
+    "lastMessage": "12/04/2026",
+    "score": 27,
+    "favoriteHour": 20,
+    "topInteractions": [
+      {
+        "name": "Anouk Suisse",
+        "count": 89
+      },
+      {
+        "name": "Julia MediaForest",
+        "count": 61
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 46
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 45
+      },
+      {
+        "name": "Marie lev Wonder Nini",
+        "count": 41
+      }
+    ]
+  },
+  {
+    "name": "David Cohen",
+    "messages": 764,
+    "activeDays": 231,
+    "firstMessage": "08/03/2024",
+    "lastMessage": "10/04/2026",
+    "score": 26,
+    "favoriteHour": 22,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 109
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 58
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 55
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 53
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 34
+      }
+    ]
+  },
+  {
+    "name": "Joyce",
+    "messages": 522,
+    "activeDays": 271,
+    "firstMessage": "08/03/2024",
+    "lastMessage": "05/04/2026",
+    "score": 26,
+    "favoriteHour": 21,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 83
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 71
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 52
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 48
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 41
+      }
+    ]
+  },
+  {
+    "name": "Jo Safdié",
+    "messages": 460,
+    "activeDays": 196,
+    "firstMessage": "12/03/2024",
+    "lastMessage": "11/04/2026",
+    "score": 20,
+    "favoriteHour": 21,
+    "topInteractions": [
+      {
+        "name": "Julia MediaForest",
+        "count": 48
+      },
+      {
+        "name": "Eric Jaoui",
+        "count": 41
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 35
+      },
+      {
+        "name": "Chantou Jaoui",
+        "count": 32
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 31
+      }
+    ]
+  },
+  {
+    "name": "Joseph Cohen",
+    "messages": 255,
+    "activeDays": 120,
+    "firstMessage": "14/03/2024",
+    "lastMessage": "31/03/2026",
+    "score": 12,
+    "favoriteHour": 22,
+    "topInteractions": [
+      {
+        "name": "Eric Jaoui",
+        "count": 41
+      },
+      {
+        "name": "Julia MediaForest",
+        "count": 32
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 30
+      },
+      {
+        "name": "Anthony Jaoui",
+        "count": 17
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "name": "Suz Bijaoui",
+    "messages": 25,
+    "activeDays": 15,
+    "firstMessage": "29/04/2024",
+    "lastMessage": "17/01/2026",
+    "score": 1,
+    "favoriteHour": 13,
+    "topInteractions": [
+      {
+        "name": "Anthony Jaoui",
+        "count": 4
+      },
+      {
+        "name": "Jaoui Armand",
+        "count": 3
+      },
+      {
+        "name": "Joseph Cohen",
+        "count": 3
+      },
+      {
+        "name": "Jen Cohen",
+        "count": 2
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "~ armand jaoui",
+    "messages": 26,
+    "activeDays": 14,
+    "firstMessage": "02/09/2024",
+    "lastMessage": "31/03/2026",
+    "score": 1,
+    "favoriteHour": 21,
+    "topInteractions": [
+      {
+        "name": "Eric Jaoui",
+        "count": 5
+      },
+      {
+        "name": "Anouk Suisse",
+        "count": 4
+      },
+      {
+        "name": "Anthony Jaoui",
+        "count": 4
+      },
+      {
+        "name": "Mickael Miro",
+        "count": 3
+      },
+      {
+        "name": "Marie lev Wonder Nini",
+        "count": 2
+      }
+    ]
+  }
+]

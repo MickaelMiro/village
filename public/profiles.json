@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Chantou Jaoui",
+    "ville": "Lyon",
+    "pays": "France",
+    "profession": null,
+    "relation": "Mère ou tante",
+    "personnalite": "Affectueuse, engagée politiquement, sociale",
+    "enfants": "Ariely, Abraham, Elios",
+    "faits_cles": [
+      "Très impliquée dans la communauté juive et causes israéliennes",
+      "Proche des enfants d'amis/famille (mentions fréquentes de neveux, petits-enfants)",
+      "Utilise beaucoup les emojis et messages courts, très active sur les réseaux sociaux"
+    ]
+  },
+  {
+    "name": "Anouk Suisse",
+    "ville": null,
+    "pays": "Suisse",
+    "profession": null,
+    "relation": null,
+    "personnalite": [
+      "Sociable et enjouée",
+      "Expressive et directe",
+      "Voyageuse"
+    ],
+    "enfants": [
+      "Leon",
+      "Ariely",
+      "Chamallow"
+    ],
+    "faits_cles": [
+      "Habite en Suisse (Genève mentionné)",
+      "Soutien affirmé d'Israël avec engagement familial",
+      "Voyage fréquent entre France, Israël, Suisse et Brésil"
+    ]
+  },
+  {
+    "name": "David Cohen",
+    "ville": "Paris",
+    "pays": "France",
+    "profession": null,
+    "relation": "ami",
+    "personnalite": "social, organisateur, humouristique",
+    "enfants": "Joseph, Naomi",
+    "faits_cles": [
+      "Organise régulièrement des vacances en groupe (Naples, Jordanie, Portugal, Pyla-sur-Mer)",
+      "Fait partie d'un cercle familial/amical franco-juif actif (références à Mazel tov, mariages)",
+      "Voyageur fréquent avec des anecdotes d'avion et déplacements réguliers à l'aéroport"
+    ]
+  },
+  {
+    "name": "Julia MediaForest",
+    "ville": "Palavas ou région Occitanie",
+    "pays": "France",
+    "profession": "Entrepreneur/Vendeuse (concept de live solidaire)",
+    "relation": null,
+    "personnalite": "Joyeuse, maternelle, organisée",
+    "enfants": "Roman, Jude, Levi, Zack",
+    "faits_cles": "Mère de famille active, pratique des activités familiales (krav maga, tennis), intéressée par l'entrepreneuriat et les ventes en ligne"
+  },
+  {
+    "name": "Eric Jaoui",
+    "ville": "Paris",
+    "pays": "France",
+    "profession": null,
+    "relation": "ami du groupe familial/amical",
+    "personnalite": "Blagueur, social, enthousiaste, organisateur d'événements",
+    "enfants": "Elios",
+    "faits_cles": [
+      "Participe activement à la vie sociale du groupe avec voyages et sorties",
+      "A des connexions avec des personnalités (Marcel Nakam, artistes)",
+      "Intéressé par la culture (opéra, festivals, musique)"
+    ]
+  },
+  {
+    "name": "Jen Cohen",
+    "ville": "Roanne",
+    "pays": "France",
+    "profession": null,
+    "relation": "amie ou membre de la famille élargie",
+    "personnalite": "humouristique, engagée socialement, maternelle",
+    "enfants": "Noah, Saul",
+    "faits_cles": [
+      "Pratique le judaïsme (Shabbat, Brit, synagogue)",
+      "Voyage régulièrement (Japon, Lisbonne, Italie, Arcachon)",
+      "Suit des lives shopping en ligne (Whatnot, vente American Vintage)"
+    ]
+  },
+  {
+    "name": "Joyce",
+    "ville": "Arcachon ou région méditerranéenne",
+    "pays": "France",
+    "profession": null,
+    "relation": "Mère ou tante",
+    "personnalite": "Chaleureuse, expressive, bienveillante",
+    "enfants": "Anthony, David, Jenn, Sienna, Eric, Mary, Naomi",
+    "faits_cles": [
+      "Membre actif d'une famille juive française (références Shabbat, Mazel Tov, Hatima Tova)",
+      "Cherche une maison à Arcachon avec 2+ chambres et acceptant les chiens",
+      "Très impliquée dans la vie familiale, organise voyages et célébrations"
+    ]
+  },
+  {
+    "name": "Mon Amour",
+    "ville": "Paris",
+    "pays": "France",
+    "profession": null,
+    "relation": "mère ou conjointe de Mickael Miro",
+    "personnalite": "chaleureuse, organisée, humoristique",
+    "enfants": "River, Sienna",
+    "faits_cles": [
+      "Vie familiale active avec enfants et famille élargie",
+      "Pratique la religion juive (références Shabat, Lagbaomer, Brit, Mazal tov)",
+      "Gère des détails pratiques (transport, cantine, valises, rendez-vous)"
+    ]
+  },
+  {
+    "name": "Jaoui Armand",
+    "ville": "Lyon",
+    "pays": "France",
+    "profession": null,
+    "relation": null,
+    "personnalite": [
+      "Affectueux/chaleureux",
+      "Sociable et familial",
+      "Passionné par Israël"
+    ],
+    "enfants": null,
+    "faits_cles": [
+      "Membre actif d'une famille juive francophone",
+      "Participe régulièrement à des célébrations familiales (anniversaires, Hanoukka, Shabbat)",
+      "Intéressé par l'actualité israélienne et partage du contenu politique/culturel sur Israël"
+    ]
+  },
+  {
+    "name": "Michael Taieb",
+    "ville": "Paris",
+    "pays": "France",
+    "profession": null,
+    "relation": "ami",
+    "personnalite": "enthousiaste, blagueur, social",
+    "enfants": null,
+    "faits_cles": [
+      "Fréquente régulièrement des restaurants parisiens haut de gamme (Georges V, restaurants italiens)",
+      "Impliqué dans une communauté religieuse juive (mentions de Mazel tov, office du matin, Tefilim)",
+      "Actif dans un groupe familial/amical où il commente les événements, anniversaires et sorties de manière décontractée"
+    ]
+  },
+  {
+    "name": "Chloe Saada",
+    "ville": "Paris",
+    "pays": "France",
+    "profession": null,
+    "relation": null,
+    "personnalite": "Joviale, organisée, sociable",
+    "enfants": "Elios, Bam",
+    "faits_cles": [
+      "Voyage fréquemment en Israël (Eilat)",
+      "Famille juive pratiquante",
+      "Aime les sorties en famille et organise des événements"
+    ]
+  },
+  {
+    "name": "Marie lev Wonder Nini",
+    "ville": null,
+    "pays": "France",
+    "profession": null,
+    "relation": "probablement épouse ou partenaire de Mickael Miro",
+    "personnalite": "enthousiaste, chaleureuse, organisatrice",
+    "enfants": "Anthony, Jude",
+    "faits_cles": [
+      "Anthony a eu une intervention chirurgicale récente",
+      "Organise des réunions familiales/amicales fréquentes dans des villas",
+      "Cercle social incluant des personnalités (mention de David Cohen, Mickael Miro)"
+    ]
+  },
+  {
+    "name": "Anthony Jaoui",
+    "ville": null,
+    "pays": "France",
+    "profession": null,
+    "relation": "ami ou membre de la famille éloignée",
+    "personnalite": "humoristique, décontracté, socialmente actif",
+    "enfants": null,
+    "faits_cles": [
+      "Voyage régulier en Israël (mention TLV - Tel Aviv)",
+      "Intérêt pour les voyages et locations de vacances (Airbnb, Grèce, Portugal, Brésil)",
+      "Passionné de musique et de contenu média (clips, sketches, albums)"
+    ]
+  },
+  {
+    "name": "Jo Safdié",
+    "ville": "Genève",
+    "pays": "France/Suisse",
+    "profession": null,
+    "relation": "ami du groupe familial/amical",
+    "personnalite": "blagueur, sociable, voyageur",
+    "enfants": "Levi",
+    "faits_cles": [
+      "Voyage fréquemment (Brésil, Sardaigne, Forte di Marmi, Genève)",
+      "Passionné par les voyages et les destinations (Miami, Lisbonne, Milan, Paraguay)",
+      "Intéressé par les questions géopolitiques et impliqué dans un groupe familial/amical multiculturel"
+    ]
+  },
+  {
+    "name": "Joseph Cohen",
+    "ville": null,
+    "pays": "France",
+    "profession": null,
+    "relation": null,
+    "personnalite": "Bavard, ironique, engagé politiquement et socialement",
+    "enfants": null,
+    "faits_cles": [
+      "Membre d'une communauté juive française pratiquante (synagogue, bar-mitzvah, Pessah)",
+      "Voyageur fréquent intéressé par Miami, Israël, Grèce et stations de ski",
+      "Homme âgé qui envisage de quitter la France pour Miami ou Israël"
+    ]
+  },
+  {
+    "name": "Suz Bijaoui",
+    "ville": null,
+    "pays": "France",
+    "profession": null,
+    "relation": null,
+    "personnalite": "Distraite, humoristique, affectueuse",
+    "enfants": null,
+    "faits_cles": [
+      "A perdu son téléphone portable sur le toit de sa Smart à une station Totale",
+      "Préoccupée par les questions géopolitiques et la couverture médiatique",
+      "Apprécie les vacances en montagne en famille/groupe d'amis"
+    ]
+  },
+  {
+    "name": "~ armand jaoui",
+    "ville": "Paris ou région parisienne",
+    "pays": "France",
+    "profession": null,
+    "relation": "Membre de la famille ou amie proche",
+    "personnalite": "Joviale, enthousiaste, sociable",
+    "enfants": null,
+    "faits_cles": [
+      "Habite ou fréquente le 16ème arrondissement de Paris",
+      "A voyagé à côté de Chantal et son mari",
+      "Membre actif d'un groupe familial/amical avec partage régulier de contenus"
+    ]
+  }
+]
