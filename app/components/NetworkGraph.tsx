@@ -36,7 +36,7 @@ export default function NetworkGraph({ contacts, onSelect, selected }: Props) {
     const link = g.append('g').selectAll('line').data(links).join('line')
       .attr('stroke', '#333').attr('stroke-width', (d: any) => Math.sqrt(d.value / 50)).attr('stroke-opacity', 0.6);
     const node = g.append('g').selectAll('g').data(nodes).join('g')
-      .attr('cursor', 'pointer').on('click', (_: any, d: any) => onSelect(d));
+      .attr('cursor', 'pointer').on('click', (_: any, d: any) => onSelect(d)) as d3.Selection<SVGGElement, any, SVGGElement, unknown>;
     node.call(d3.drag<SVGGElement, any>()
       .on('start', (e: any, d: any) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
       .on('drag', (e: any, d: any) => { d.fx = e.x; d.fy = e.y; })
